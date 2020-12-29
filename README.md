@@ -4,7 +4,7 @@ We designed a online student management system where students will get their att
 
 
 # login details:
-student@gmail.com
+student@gmail.com<br>
 password:- student
 
 
