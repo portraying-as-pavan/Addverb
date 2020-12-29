@@ -1,6 +1,6 @@
 # Problem Statement :- Conceptualise and design a software solution to improve learning experience of students in the pandemic.
 
-We designed a online student management system where students will get their attendance report and other stuff like assignments etc..
+We designed a online student management system where students will get their attendance report and other stuff like assignments etc.
 
 
 # login details:
