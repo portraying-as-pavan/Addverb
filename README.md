@@ -9,7 +9,8 @@ password:- student
 
 
 # Dashboard
-Students can view their attendance
-Students can see their results
-Students can interact with professors via forum 
-Students can view recorded materials 
+<ul>
+<li> Students can view their attendance
+<li> Students can see their results
+<li> Students can interact with professors via forum 
+<li> Students can view recorded materials 
